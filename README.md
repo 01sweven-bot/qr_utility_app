@@ -1,17 +1,30 @@
-# qr_utility_app
+# QR Utility App 📱
 
-A new Flutter project.
+A modern, fast, and secure QR Code Scanner and Generator built with **Flutter**. This app features a clean Material 3 UI and allows users to interact with QR codes in real-time.
 
-## Getting Started
+## ✨ Features
+- **QR Scanner:** Uses the device camera to scan and decode QR codes instantly.
+- **QR Generator:** Create custom QR codes by typing any text or URL.
+- **Modern UI:** Designed with a Deep Purple theme using Material 3 widgets.
+- **History Placeholder:** Ready for future updates to save previous scans.
 
-This project is a starting point for a Flutter application.
+## 🛠️ Tech Stack
+- **Framework:** Flutter
+- **Language:** Dart
+- **Key Packages:** - `mobile_scanner` (for camera integration)
+  - `qr_flutter` (for generating QR codes)
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 Screenshots
+> **Tip:** You can drag and drop your emulator screenshots here to show off your hard work!
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 How to Run
+1. Clone this repository:
+   ```bash
+   git clone [https://github.com/01sweven-bot/qr_utility_app.git](https://github.com/01sweven-bot/qr_utility_app.git)
+2. Navigate to the project folder:
+   cd qr_utility_app
+3. Get dependencies:
+   flutter pub get
+4. Run the app:
+   flutter run
+   
