@@ -14,17 +14,27 @@ A modern, fast, and secure QR Code Scanner and Generator built with **Flutter**.
 - **Key Packages:** - `mobile_scanner` (for camera integration)
   - `qr_flutter` (for generating QR codes)
 
-## 📸 Screenshots
-> **Tip:** You can drag and drop your emulator screenshots here to show off your hard work!
-
 ## 🚀 How to Run
+
 1. Clone this repository:
    ```bash
    git clone [https://github.com/01sweven-bot/qr_utility_app.git](https://github.com/01sweven-bot/qr_utility_app.git)
+   ```
+
 2. Navigate to the project folder:
+   ```bash
    cd qr_utility_app
+   ```
+
 3. Get dependencies:
+   ```bash
    flutter pub get
+   ```
+
 4. Run the app:
+   ```bash
    flutter run
-   
+   ```
+```
+
+
