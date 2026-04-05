@@ -35,6 +35,5 @@ A modern, fast, and secure QR Code Scanner and Generator built with **Flutter**.
    ```bash
    flutter run
    ```
-```
 
 
